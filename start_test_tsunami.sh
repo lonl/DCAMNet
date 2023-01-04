@@ -1,0 +1,1 @@
+python test.py --dataset PCD --use-corr --datadir /mnt/a409/users/hanpengcheng/projects/cdnet_pro/sscdnet1/datasets/GSV --checkpointdir /mnt/a409/users/hanpengcheng/projects/cdnet_pro/sscdnet1/log/cscdnet/checkpointdir

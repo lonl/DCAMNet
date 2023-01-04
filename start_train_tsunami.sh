@@ -1,0 +1,1 @@
+python train_tsunami.py  --cvset 0 --use-corr --datadir /mnt/a409/users/hanpengcheng/projects/cdnet_pro/sscdnet1/datasets/TSUNAMI --checkpointdir /mnt/a409/users/hanpengcheng/projects/cdnet_pro/sscdnet1/log --max-iteration 50000 --num-workers 0 --batch-size 8 --icount-plot 50 --icount-save 10000
